@@ -1,2 +1,2 @@
 # Rotate-agents
-Rotate user agents
+Rotates user agents from the 3 browsers, Chrome, Safari, and FireFox.
